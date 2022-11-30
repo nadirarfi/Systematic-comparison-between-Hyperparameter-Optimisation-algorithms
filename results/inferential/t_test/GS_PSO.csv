@@ -1,0 +1,9 @@
+,Mean (GS),Mean (PSO),t-stat,p_value,Null Hypothesis
+Execution Time (s),3209.238,968.273,43.507,1.087901151056804e-19,Reject
+Total Energy (KJ),129.209,38.582,35.395,4.2836806883381785e-18,Reject
+Total Energy (kWh),0.036,0.011,34.153,8.076680518546142e-18,Reject
+Average Total Energy (J/s),40.248,39.817,1.525,0.1447342478584568,Fail to Reject
+Emission (kgCH4/kWh)/year,0.252,0.075,35.322,4.443324995451225e-18,Reject
+Emission (kgN2O/kWh)/year,0.431,0.129,35.405,4.261408666828151e-18,Reject
+Emission (kgCO2/kWh)/year,66.076,19.73,35.393,4.2872321522763084e-18,Reject
+Emission (kgCO2e/kWh)/year,66.759,19.934,35.395,4.282940367929262e-18,Reject

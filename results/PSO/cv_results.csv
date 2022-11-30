@@ -1,0 +1,11 @@
+,Solver,Learning rate,Hidden layer size,Alpha,Activation function,Mean test score,Std test score,Solution Rank
+Solution1,adam,adaptive,150,0.01,relu,0.871,0.028,1
+Solution2,adam,adaptive,200,0.001,relu,0.869,0.034,2
+Solution3,adam,constant,200,0.001,relu,0.869,0.034,2
+Solution4,adam,adaptive,150,0.001,relu,0.868,0.027,4
+Solution5,adam,adaptive,200,0.1,relu,0.867,0.031,5
+Solution6,adam,constant,100,0.001,relu,0.867,0.036,6
+Solution7,adam,adaptive,200,0.001,logistic,0.866,0.026,7
+Solution8,adam,adaptive,200,0.01,relu,0.864,0.037,8
+Solution9,adam,constant,200,0.01,relu,0.864,0.037,8
+Solution10,adam,adaptive,50,0.1,relu,0.864,0.03,10

@@ -1,0 +1,1 @@
+{"activation": "relu", "alpha": 0.1, "hidden_layer_sizes": 150, "learning_rate": "adaptive", "solver": "adam"}
